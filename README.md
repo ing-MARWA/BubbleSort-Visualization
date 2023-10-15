@@ -9,7 +9,7 @@ This is a Python program that visualizes the bubble sort algorithm using the Tki
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/ING-MARWA/BubbleSort-Visualization.git
    ```
 
 2. Install the required dependencies:
@@ -20,10 +20,10 @@ This is a Python program that visualizes the bubble sort algorithm using the Tki
 
 ## Usage
 
-1. Run the `main.py` file:
+1. Run the `Project.py` file:
 
    ```bash
-   python main.py
+   python Project.py
    ```
 
 2. The program window will open, and you will see a user interface with various options.
